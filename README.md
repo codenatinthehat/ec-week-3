@@ -1,2 +1,2 @@
-# ec-week-3
-ec-week-3
+# ec-week-2
+Emerge week 2
